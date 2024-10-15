@@ -1,1 +1,1 @@
-this is just a network monitoring tool of your linux machine. when you abort from the tool then it will gives you an average of variables.
+This is just a network monitoring tool for your linux machine. It gives the average values ​​of the data transmitted when we stop the vehicle.
